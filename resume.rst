@@ -62,18 +62,38 @@ Mentoring
 Employment
 ----------
 
+2013 `The Beatpacking Company`_
+   Wroked as programmer.
+
+   Android application.
+   [Technologies: Java]
+
+   Backend server.
+   [Technologies: Python, Flask_, SQLAlchemy_, Celery_, PostgreSQL_, Fabric_,
+   Linux, `Amazon Web Services`_ (EC2_, S3_, SQS_, ElastiCache_, `Route 53`_,
+   CloudFront_)]
+
+2012--2013 Crosspop_
+   Crosspop is a social platform where anyone can enjoy creating comics/mangas,
+   share and browse them, and connect with other artists and enthusiasts.
+
+   Self-employed as a founder.
+   [Technologies: Python, Flask_, SQLAlchemy_, Celery_, PostgreSQL_,
+   Memcached_, jQuery, SCSS_, Fabric_, Linux, `Amazon Web Services`_
+   (EC2_, S3_, SQS_, ElastiCache_, SES_, `Route 53`_, CloudFront_)]
+
 2012 Tipforest_
    Tipforst is a collaboratively edited open database project.
 
    Worked as programmer.
    [Technologies: Python, Django_, Jinja_, PostgreSQL_, Heroku_]
 
-2011-2012 StyleShare_
+2011--2012 StyleShare_
    StyleShare is a social network service for fashion lovers.
 
    Worked as CTO.
-   [Technologies: Python, Flask_, SQLAlchemy_, gevent_, PostgreSQL_,
-   Memcached_, jQuery, SCSS_, Fabric_, Linux,
+   [Technologies: Python, Flask_, SQLAlchemy_, Celery_, gevent_, PostgreSQL_,
+   RabbitMQ_, Memcached_, jQuery, SCSS_, Fabric_, Linux,
    `Amazon Web Services`_ (EC2_, S3_, `Route 53`_, CloudFront_)]
 
 2011 Olaworks_
@@ -130,6 +150,12 @@ Employment
 
    Retired to do liability for military service.
 
+.. _The Beatpacking Company: http://beatpacking.com/
+.. _Celery: http://www.celeryproject.org/
+.. _SQS: https://aws.amazon.com/sqs/
+.. _ElastiCache: https://aws.amazon.com/elasticache/
+.. _Crosspop: http://crosspop.in/
+.. _SES: https://aws.amazon.com/ses/
 .. _Tipforest: http://www.tipforest.com/
 .. _Django: http://www.djangoproject.com/
 .. _Heroku: http://www.heroku.com/
@@ -139,6 +165,7 @@ Employment
 .. _SQLAlchemy: http://sqlalchemy.org/
 .. _memcached: http://memcached.org/
 .. _PostgreSQL: http://postgresql.org/
+.. _RabbitMQ: http://www.rabbitmq.com/
 .. _SCSS: http://sass-lang.com/
 .. _Fabric: http://fabfile.org/
 .. _Amazon Web Services: http://aws.amazon.com/
@@ -166,6 +193,13 @@ Employment
 Open Source Projects
 --------------------
 
+2012-- Asuka_
+   Deployment system for Python web apps using GitHub and
+   `Amazon Web Services`_.
+
+2012-- libsass-python_
+   SCSS_ for Python.
+
 2012-- Sider_
    Persistent object library based on Redis.
 
@@ -183,7 +217,9 @@ Open Source Projects
 The above list contains only representative projects founded by me.
 My detailed open source activities can be found in my GitHub_ and Bitbucket_.
 
-.. _Sider: https://bitbucket.org/dahlia/sider
+.. _Asuka: https://github.com/crosspop/asuka
+.. _libsass-python: https://github.com/dahlia/libsass-python
+.. _Sider: https://github.com/dahlia/sider
 .. _Wand: http://dahlia.github.com/wand/
 .. _ImageMagick: http://www.imagemagick.org/
 .. _futureutils: http://dahlia.bitbucket.org/futureutils/
