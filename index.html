@@ -12,7 +12,7 @@
 <div id="header">
 <h1 class="title">Hong Minhee — Résumé</h1>
 </div>
-<h2>Personal Details</h2>
+<h2 id="personal-details">Personal Details</h2>
 <dl>
 <dt>Email</dt>
 <dd><p><script type="text/javascript">
@@ -29,10 +29,11 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <dd><p>+82 10-3229-7392</p>
 </dd>
 </dl>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <dl>
 <dt>Interests</dt>
 <dd><ul>
+<li>Free and open source software.</li>
 <li>Network programming: implementing asynchronous event driven servers and clients.</li>
 <li>Domain-specific languages, minimal scripting languages: implementing parsers, evaluators, and compilers.</li>
 <li>Technical writing: in particular, documenting large legacy code base, technical blogging.</li>
@@ -41,23 +42,23 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 </dd>
 <dt>Skills</dt>
 <dd><ul>
-<li>Languages: Python, C/C++, Ruby, JavaScript, PHP, bash</li>
-<li>Web Frameworks: Flask, Werkzeug, Jinja, Rails, LESS/SCSS</li>
+<li>Languages: Python, C/C++, Java, JavaScript, PHP, SQL, bash</li>
+<li>Web Frameworks: Flask, Werkzeug, Jinja, Django, Rails, LESS/SCSS</li>
 <li>XML Technologies: SAX, DOM, XPath, XSLT, lxml, libxml</li>
-<li>Databases: PostgreSQL, Oracle, Redis, Memcached, Membase, Tokyo Cabinet, SQLite, MySQL, SQLAlchemy</li>
+<li>Databases: PostgreSQL, Oracle, Redis, Memcached, SQLite, MySQL, SQLAlchemy</li>
 <li>Network Programming Libraries: gevent, eventlet, Tornado</li>
-<li>Web Servers: Nginx, Apache, Green Unicorn</li>
-<li>Tools: Vim, Mercurial (including internal API), Git, Subversion</li>
+<li>Web Servers: Nginx, Apache</li>
+<li>Tools: Vim, Git, Mercurial (including internal API), Subversion</li>
 </ul>
 </dd>
 </dl>
-<h2>Education</h2>
+<h2 id="education">Education</h2>
 <dl>
 <dt>2004–2007 Sunrin Internet High School</dt>
 <dd>
 </dd>
 </dl>
-<h2>Mentoring</h2>
+<h2 id="mentoring">Mentoring</h2>
 <dl>
 <dt>2010–</dt>
 <dd><p>Mentor of <a href="http://swmaestro.kr/">Software Maestro</a> program by the <a href="http://www.mke.go.kr/">Ministry of Knowledge Economy, Republic of Korea</a>.</p>
@@ -66,12 +67,16 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <dd><p>Mentor of <a href="http://woc.openmaru.com/">Winter of Code</a>.</p>
 </dd>
 </dl>
-<h2>Employment</h2>
+<h2 id="employment">Employment</h2>
 <dl>
+<dt>2014– <a href="http://www.spoqa.com/">Spoqa</a></dt>
+<dd><p>Maintained <a href="http://dodopoint.com/">Dodo</a>, an extremely simple iPad based customer loyalty and marketing platform for local merchants and stores. Merchants can market to customers via the Dodo platform when they check in with their phone number at the counter.</p>
+<p>Backend server. [Technologies: Python, <a href="http://flask.pocoo.org/">Flask</a>, <a href="http://sqlalchemy.org/">SQLAlchemy</a>, <a href="http://www.celeryproject.org/">Celery</a>, <a href="http://postgresql.org/">PostgreSQL</a>, <a href="http://redis.io/">Redis</a>, <a href="http://fabfile.org/">Fabric</a>, Linux]</p>
+</dd>
 <dt>2013 <a href="http://beatpacking.com/">The Beatpacking Company</a></dt>
-<dd><p>Worked as programmer.</p>
-<p>Android application. [Technologies: Java]</p>
-<p>Backend server. [Technologies: Python, <a href="http://flask.pocoo.org/">Flask</a>, <a href="http://sqlalchemy.org/">SQLAlchemy</a>, <a href="http://www.celeryproject.org/">Celery</a>, <a href="http://postgresql.org/">PostgreSQL</a>, <a href="http://fabfile.org/">Fabric</a>, Linux, <a href="http://aws.amazon.com/">Amazon Web Services</a> (<a href="http://aws.amazon.com/ec2/">EC2</a>, <a href="http://aws.amazon.com/s3/">S3</a>, <a href="https://aws.amazon.com/sqs/">SQS</a>, <a href="https://aws.amazon.com/elasticache/">ElastiCache</a>, <a href="http://aws.amazon.com/route53/">Route 53</a>, <a href="http://aws.amazon.com/cloudfront/">CloudFront</a>)]</p>
+<dd><p>Built <a href="https://play.google.com/store/apps/details?id=com.beatpacking.beat">Beat</a>, and Android music player app that helps you not only to listen to music on your smartphone, but to make playlists on your own by finding your favorite songs.</p>
+<p>Android application. [Technologies: Java, Android, <a href="http://maven.apache.org/">Maven</a>]</p>
+<p>Backend server. [Technologies: Python, <a href="http://flask.pocoo.org/">Flask</a>, <a href="http://sqlalchemy.org/">SQLAlchemy</a>, <a href="http://www.celeryproject.org/">Celery</a>, <a href="http://postgresql.org/">PostgreSQL</a>, <a href="http://redis.io/">Redis</a>, <a href="http://fabfile.org/">Fabric</a>, Linux, <a href="http://aws.amazon.com/">Amazon Web Services</a> (<a href="http://aws.amazon.com/ec2/">EC2</a>, <a href="http://aws.amazon.com/s3/">S3</a>, <a href="https://aws.amazon.com/sqs/">SQS</a>, <a href="https://aws.amazon.com/elasticache/">ElastiCache</a>, <a href="http://aws.amazon.com/route53/">Route 53</a>, <a href="http://aws.amazon.com/cloudfront/">CloudFront</a>)]</p>
 </dd>
 <dt>2012–2013 <a href="http://crosspop.in/">Crosspop</a></dt>
 <dd><p>Crosspop is a social platform where anyone can enjoy creating comics/mangas, share and browse them, and connect with other artists and enthusiasts.</p>
@@ -83,7 +88,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 </dd>
 <dt>2011–2012 <a href="https://stylesha.re/">StyleShare</a></dt>
 <dd><p>StyleShare is a social network service for fashion lovers.</p>
-<p>Worked as CTO. [Technologies: Python, <a href="http://flask.pocoo.org/">Flask</a>, <a href="http://sqlalchemy.org/">SQLAlchemy</a>, <a href="http://www.celeryproject.org/">Celery</a>, <a href="http://gevent.org/">gevent</a>, <a href="http://postgresql.org/">PostgreSQL</a>, <a href="http://www.rabbitmq.com/">RabbitMQ</a>, <a href="http://memcached.org/">Memcached</a>, jQuery, <a href="http://sass-lang.com/">SCSS</a>, <a href="http://fabfile.org/">Fabric</a>, Linux, <a href="http://aws.amazon.com/">Amazon Web Services</a> (<a href="http://aws.amazon.com/ec2/">EC2</a>, <a href="http://aws.amazon.com/s3/">S3</a>, <a href="http://aws.amazon.com/route53/">Route 53</a>, <a href="http://aws.amazon.com/cloudfront/">CloudFront</a>)]</p>
+<p>Worked as CTO. [Technologies: Python, <a href="http://flask.pocoo.org/">Flask</a>, <a href="http://sqlalchemy.org/">SQLAlchemy</a>, <a href="http://www.celeryproject.org/">Celery</a>, <a href="http://gevent.org/">gevent</a>, <a href="http://postgresql.org/">PostgreSQL</a>, <a href="http://www.rabbitmq.com/">RabbitMQ</a>, <a href="http://memcached.org/">Memcached</a>, <a href="http://redis.io/">Redis</a>, jQuery, <a href="http://sass-lang.com/">SCSS</a>, <a href="http://fabfile.org/">Fabric</a>, Linux, <a href="http://aws.amazon.com/">Amazon Web Services</a> (<a href="http://aws.amazon.com/ec2/">EC2</a>, <a href="http://aws.amazon.com/s3/">S3</a>, <a href="http://aws.amazon.com/route53/">Route 53</a>, <a href="http://aws.amazon.com/cloudfront/">CloudFront</a>)]</p>
 </dd>
 <dt>2011 <a href="http://www.olaworks.com/">Olaworks</a></dt>
 <dd><p>Olaworks is a computer vision based company that focuses on facial recognition technology/service.</p>
@@ -108,12 +113,12 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <p>Retired to do liability for military service.</p>
 </dd>
 </dl>
-<h2>Open Source Projects</h2>
+<h2 id="open-source-projects">Open Source Projects</h2>
 <dl>
 <dt>2012– <a href="https://github.com/crosspop/asuka">Asuka</a></dt>
 <dd><p>Deployment system for Python web apps using GitHub and <a href="http://aws.amazon.com/">Amazon Web Services</a>.</p>
 </dd>
-<dt>2012– <a href="https://github.com/dahlia/libsass-python">libsass-python</a></dt>
+<dt>2012– <a href="https://github.com/dahlia/libsass-python">libsassppython</a></dt>
 <dd><p><a href="http://sass-lang.com/">SCSS</a> for Python.</p>
 </dd>
 <dt>2012– <a href="https://github.com/dahlia/sider">Sider</a></dt>
@@ -130,7 +135,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 </dd>
 </dl>
 <p>The above list contains only representative projects founded by me. My detailed open source activities can be found in my <a href="https://github.com/dahlia">GitHub</a> and <a href="http://bitbucket.org/dahlia">Bitbucket</a>.</p>
-<h2>Other Activities</h2>
+<h2 id="other-activities">Other Activities</h2>
 <dl>
 <dt>2008–</dt>
 <dd><p>Founder of <a href="http://www.langdev.org/">LangDev</a>, a forum for programming language designers and compiler implementors.</p>

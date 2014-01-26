@@ -18,6 +18,7 @@ Summary
 -------
 
 Interests
+   - Free and open source software.
    - Network programming: implementing asynchronous event driven servers
      and clients.
    - Domain-specific languages, minimal scripting languages: implementing
@@ -28,14 +29,13 @@ Interests
      effectively maintaining conventions, continuous integration.
 
 Skills
-   - Languages: Python, C/C++, Ruby, JavaScript, PHP, bash
-   - Web Frameworks: Flask, Werkzeug, Jinja, Rails, LESS/SCSS
+   - Languages: Python, C/C++, Java, JavaScript, PHP, SQL, bash
+   - Web Frameworks: Flask, Werkzeug, Jinja, Django, Rails, LESS/SCSS
    - XML Technologies: SAX, DOM, XPath, XSLT, lxml, libxml
-   - Databases: PostgreSQL, Oracle, Redis, Memcached, Membase, Tokyo Cabinet,
-     SQLite, MySQL, SQLAlchemy
+   - Databases: PostgreSQL, Oracle, Redis, Memcached, SQLite, MySQL, SQLAlchemy
    - Network Programming Libraries: gevent, eventlet, Tornado
-   - Web Servers: Nginx, Apache, Green Unicorn
-   - Tools: Vim, Mercurial (including internal API), Git, Subversion
+   - Web Servers: Nginx, Apache
+   - Tools: Vim, Git, Mercurial (including internal API), Subversion
 
 
 Education
@@ -62,16 +62,28 @@ Mentoring
 Employment
 ----------
 
-2013 `The Beatpacking Company`_
-   Worked as programmer.
-
-   Android application.
-   [Technologies: Java]
+2014-- Spoqa_
+   Maintained Dodo_, an extremely simple iPad based customer loyalty and
+   marketing platform for local merchants and stores. Merchants can market
+   to customers via the Dodo platform when they check in with their phone
+   number at the counter.
 
    Backend server.
-   [Technologies: Python, Flask_, SQLAlchemy_, Celery_, PostgreSQL_, Fabric_,
-   Linux, `Amazon Web Services`_ (EC2_, S3_, SQS_, ElastiCache_, `Route 53`_,
-   CloudFront_)]
+   [Technologies: Python, Flask_, SQLAlchemy_, Celery_, PostgreSQL_, Redis_,
+   Fabric_, Linux]
+
+2013 `The Beatpacking Company`_
+   Built Beat_, and Android music player app that helps you not only to listen
+   to music on your smartphone, but to make playlists on your own by finding
+   your favorite songs.
+
+   Android application.
+   [Technologies: Java, Android, Maven_]
+
+   Backend server.
+   [Technologies: Python, Flask_, SQLAlchemy_, Celery_, PostgreSQL_, Redis_,
+   Fabric_, Linux, `Amazon Web Services`_ (EC2_, S3_, SQS_, ElastiCache_,
+   `Route 53`_, CloudFront_)]
 
 2012--2013 Crosspop_
    Crosspop is a social platform where anyone can enjoy creating comics/mangas,
@@ -93,7 +105,7 @@ Employment
 
    Worked as CTO.
    [Technologies: Python, Flask_, SQLAlchemy_, Celery_, gevent_, PostgreSQL_,
-   RabbitMQ_, Memcached_, jQuery, SCSS_, Fabric_, Linux,
+   RabbitMQ_, Memcached_, Redis_, jQuery, SCSS_, Fabric_, Linux,
    `Amazon Web Services`_ (EC2_, S3_, `Route 53`_, CloudFront_)]
 
 2011 Olaworks_
@@ -150,7 +162,11 @@ Employment
 
    Retired to do liability for military service.
 
+.. _Spoqa: http://www.spoqa.com/
+.. _Dodo: http://dodopoint.com/
 .. _The Beatpacking Company: http://beatpacking.com/
+.. _Beat: https://play.google.com/store/apps/details?id=com.beatpacking.beat
+.. _Maven: http://maven.apache.org/
 .. _Celery: http://www.celeryproject.org/
 .. _SQS: https://aws.amazon.com/sqs/
 .. _ElastiCache: https://aws.amazon.com/elasticache/
@@ -165,6 +181,7 @@ Employment
 .. _SQLAlchemy: http://sqlalchemy.org/
 .. _memcached: http://memcached.org/
 .. _PostgreSQL: http://postgresql.org/
+.. _Redis: http://redis.io/
 .. _RabbitMQ: http://www.rabbitmq.com/
 .. _SCSS: http://sass-lang.com/
 .. _Fabric: http://fabfile.org/
