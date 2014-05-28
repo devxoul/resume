@@ -131,7 +131,6 @@ Outsourcing Projects
 --------------------
 
 2014 Ment_
-
    Total mentoring solution with real-time video streaming.
 
    iOS application:
@@ -152,7 +151,6 @@ Outsourcing Projects
       - RED5_
 
 2013 `Sleep If U Can`_
-
    Sleep if you can, forces you out of bed. #1 in the category in 35 countries. Featured by Cnet, Gizmodo etc.
 
    iOS application:
@@ -201,11 +199,6 @@ Other Activities
 
 2011-
    Founder of `Flash Platform Developers`_, a community for Flash platform developers.
-
-
-----
-
-forked from `dahlia/resume`_
 
 
 .. _Flask: http://flask.pocoo.org
