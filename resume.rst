@@ -1,5 +1,5 @@
-Su Yeol Jeon Resume
-===================
+Su Yeol Jeon - Resume
+=====================
 
 Personal Details
 ----------------
@@ -203,6 +203,11 @@ Other Activities
    Founder of `Flash Platform Developers`_, a community for Flash platform developers.
 
 
+----
+
+forked from `dahlia/resume`_
+
+
 .. _Flask: http://flask.pocoo.org
 .. _SQLAlchemy: http://sqlalchemy.org
 .. _PostgreSQL: http://postgresql.org
@@ -253,3 +258,5 @@ Other Activities
 
 .. _Sexy iOS Developers Korea: https://www.facebook.com/groups/sexyiosdeveloperskorea
 .. _Flash Platform Developers: https://www.facebook.com/groups/flashplatformdevelopers
+
+.. _dahlia/resume: https://github.com/dahlia/resume
