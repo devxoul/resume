@@ -1,5 +1,5 @@
-Su Yeol Jeon Resume
-===================
+Su Yeol Jeon - Resume
+=====================
 
 Personal Details
 ----------------
@@ -44,7 +44,7 @@ Mentoring
 2010--
    Mentor of STAC_.
 
-2007, 2008
+2010--
    Mentor of Ittda_.
 
 
@@ -131,7 +131,6 @@ Outsourcing Projects
 --------------------
 
 2014 Ment_
-
    Total mentoring solution with real-time video streaming.
 
    iOS application:
@@ -152,7 +151,6 @@ Outsourcing Projects
       - RED5_
 
 2013 `Sleep If U Can`_
-
    Sleep if you can, forces you out of bed. #1 in the category in 35 countries. Featured by Cnet, Gizmodo etc.
 
    iOS application:
@@ -253,3 +251,5 @@ Other Activities
 
 .. _Sexy iOS Developers Korea: https://www.facebook.com/groups/sexyiosdeveloperskorea
 .. _Flash Platform Developers: https://www.facebook.com/groups/flashplatformdevelopers
+
+.. _dahlia/resume: https://github.com/dahlia/resume
