@@ -143,7 +143,6 @@ Outsourcing Projects
       - Cocoapods_
       - RTMP
 
-
    Flash application:
 
       - ActionScript
