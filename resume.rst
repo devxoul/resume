@@ -23,7 +23,7 @@ Interests
    - UI/UX programming.
 
 Skills
-   - Languages: Python, Objective-C, JavaScript, CoffeeScript_, ActionScript, PHP, Java
+   - Languages: Python, Swift, Objective-C, JavaScript, CoffeeScript_, ActionScript, PHP, Java
    - Web Frameworks: Flask_, Jinja_, LESS_, HTML5
    - Mobile Development: iOS
    - RIA: Flash, `Adobe AIR`_, `Apache Flex`_
@@ -67,7 +67,7 @@ Joyfl Projects
 2014 Betabox_ (Prototype)
    The easiest way to deploy your beta builds.
 
-2014-- My Food List
+2014 My Food List
    Find and save your favorite places where have you been or you want to go.
 
    Collaborated with Kobalt60_.
@@ -102,7 +102,7 @@ Joyfl Projects
       - Linux
 
 
-2013-- `Dish by.me`_
+2013 `Dish by.me`_
    Share your own food recipe.
 
    iOS application:
@@ -195,9 +195,6 @@ Open Source Projects
 
 Other Activities
 ----------------
-
-2013--
-   
 
 2013-
    Founder of `Sexy iOS Developers Korea`_, a community for iOS developers in Korea. Supported by Microsoft.
