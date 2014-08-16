@@ -186,6 +186,9 @@ Open Source Projects
 2013- Allkdic_
    A mini dictionary for OS X.
 
+2013- JLToast_
+   Toast for iOS with very simple interface. Written in Swift_.
+
 2011- as3id3lib_
    ActionScript 3.0 id3 library.
 
@@ -249,10 +252,9 @@ Other Activities
 .. _Korail: http://github.com/devxoul/korail
 .. _JLModel: http://github.com/devxoul/JLModel
 .. _Allkdic: http://devxoul.github.io/allkdic
+.. _JLToast: http://github.com/devxoul/JLToast
 .. _as3id3lib: https://github.com/devxoul/as3id3lib
 .. _4Shared Downloader: http://xoul.tistory.com/category/Works/4Shared%20Downloader
 
 .. _Sexy iOS Developers Korea: https://www.facebook.com/groups/sexyiosdeveloperskorea
 .. _Flash Platform Developers: https://www.facebook.com/groups/flashplatformdevelopers
-
-.. _dahlia/resume: https://github.com/dahlia/resume
