@@ -23,7 +23,7 @@ Interests
    - UI/UX programming.
 
 Skills
-   - Languages: Python, Objective-C, JavaScript, CoffeeScript_, ActionScript, PHP, Java
+   - Languages: Python, Swift, Objective-C, JavaScript, CoffeeScript_, ActionScript, PHP, Java
    - Web Frameworks: Flask_, Jinja_, LESS_, HTML5
    - Mobile Development: iOS
    - RIA: Flash, `Adobe AIR`_, `Apache Flex`_
