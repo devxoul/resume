@@ -258,5 +258,3 @@ Other Activities
 
 .. _Sexy iOS Developers Korea: https://www.facebook.com/groups/sexyiosdeveloperskorea
 .. _Flash Platform Developers: https://www.facebook.com/groups/flashplatformdevelopers
-
-.. _dahlia/resume: https://github.com/dahlia/resume
