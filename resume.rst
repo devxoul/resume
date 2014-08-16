@@ -51,6 +51,9 @@ Mentoring
 Career
 ------
 
+2014-- StyleShare_
+   Software Developer.
+
 2011--2014 Joyfl_
    CEO & Founder.
 
@@ -193,6 +196,9 @@ Open Source Projects
 Other Activities
 ----------------
 
+2013--
+   
+
 2013-
    Founder of `Sexy iOS Developers Korea`_, a community for iOS developers in Korea. Supported by Microsoft.
 
@@ -232,6 +238,7 @@ Other Activities
 .. _STAC: https://www.creativekorea.or.kr/contest/130
 .. _Ittda: http://www.ittda.co.kr
 
+.. _StyleShare: https://stylesha.re
 .. _Joyfl: http://joyfl.net
 .. _Software Maestro: http://swmaestro.kr
 .. _Kobalt60: http://kobalt60.com
