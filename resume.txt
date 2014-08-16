@@ -187,7 +187,7 @@ Open Source Projects
    A mini dictionary for OS X.
 
 2013- JLToast_
-   Toast for iOS with very simple interface. Written in Swift_.
+   Toast for iOS with very simple interface. Written in Swift.
 
 2011- as3id3lib_
    ActionScript 3.0 id3 library.
