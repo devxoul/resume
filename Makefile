@@ -20,10 +20,10 @@ clean:
 
 publish: resume
 	rm -rf /tmp/resume/
-	git clone -b gh-pages git@github.com:dahlia/resume.git /tmp/resume/
+	git clone -b gh-pages https://github.com/devxoul/resume.git /tmp/resume/
 	cp resume.rst index.html resume.txt resume.odt /tmp/resume/
 	cd /tmp/resume; \
-	git add -f resume.rst index.html resume.txt resume.odt; \
-	git commit -am "Publish"; \
-	git push -f git@github.com:dahlia/resume.git gh-pages:gh-pages
+		git add -f resume.rst index.html resume.txt resume.odt; \
+		git commit -am "Publish"; \
+		git push -f origin gh-pages
 	rm -rf /tmp/resume
