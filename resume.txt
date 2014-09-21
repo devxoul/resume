@@ -1,4 +1,4 @@
-Suyeol Jeon - Resume
+Suyeol Jeon - Résumé
 ====================
 
 Personal Details
