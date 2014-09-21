@@ -1,5 +1,5 @@
-Su Yeol Jeon - Resume
-=====================
+Suyeol Jeon - Resume
+====================
 
 Personal Details
 ----------------
