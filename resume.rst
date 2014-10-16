@@ -177,6 +177,9 @@ Outsourcing Projects
 Open Source Projects
 --------------------
 
+2014- SSBouncyButton_
+   iOS7-style bouncy button. Used in StyleShare_ for iOS.
+
 2014- Korail_
    An unofficial Korail API for Python.
 
@@ -184,7 +187,7 @@ Open Source Projects
    JLModel allows you to manage models in very simple way in Objective-C.
 
 2013- Allkdic_
-   A mini dictionary for OS X.
+   A handy dictionary for OS X. Around 2,000 people are using Allkdic.
 
 2013- JLToast_
    Toast for iOS with very simple interface. Written in Swift.
@@ -249,6 +252,7 @@ Other Activities
 .. _Sleep If U Can: http://delightroom.org/sleepifucan
 .. _Fanpple: http://fanpple.com
 
+.. _SSBouncyButton: https://github.com/StyleShare/SSBouncyButton
 .. _Korail: http://github.com/devxoul/korail
 .. _JLModel: http://github.com/devxoul/JLModel
 .. _Allkdic: http://devxoul.github.io/allkdic
