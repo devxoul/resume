@@ -177,6 +177,9 @@ Outsourcing Projects
 Open Source Projects
 --------------------
 
+2014- SSBouncyButton_
+   iOS7-style bouncy button. Used in StyleShare_ for iOS.
+
 2014- Korail_
    An unofficial Korail API for Python.
 
@@ -249,6 +252,7 @@ Other Activities
 .. _Sleep If U Can: http://delightroom.org/sleepifucan
 .. _Fanpple: http://fanpple.com
 
+.. _SSBouncyButton: https://github.com/StyleShare/SSBouncyButton
 .. _Korail: http://github.com/devxoul/korail
 .. _JLModel: http://github.com/devxoul/JLModel
 .. _Allkdic: http://devxoul.github.io/allkdic
