@@ -186,8 +186,8 @@ Open Source Projects
 2013- JLModel_
    JLModel allows you to manage models in very simple way in Objective-C.
 
-2013- Allkdic_
-   A handy dictionary for OS X. Around 2,000 people are using Allkdic.
+2013- Allkdic_ (올ㅋ사전)
+   A handy dictionary for OS X. Around 2,000 people are using.
 
 2013- JLToast_
    Toast for iOS with very simple interface. Written in Swift.
