@@ -54,6 +54,29 @@ Career
 2014-- StyleShare_
    Software Developer.
 
+   iOS application:
+
+      - Swift & Objective-C
+      - AFNetworking_
+      - Mantle_
+      - Masonry_ (Auto Layout)
+      - Snappy_ (Auto Layout)
+      - SSBouncyButton_
+      - TestFlight_
+      - TTTAttributedLabel_
+
+   Backend Server:
+
+      - Python
+      - Flask_
+      - Jinja_
+      - SQLAlchemy_
+      - PostgreSQL_
+      - Celery_
+      - Fabric_
+      - Nginx_
+      - Linux
+
 2011--2014 Joyfl_
    CEO & Founder.
 
@@ -234,6 +257,11 @@ Other Activities
 .. _Cocos2D: http://cocos2d.org
 .. _RED5: http://red5.org
 .. _Adobe AIR: http://www.adobe.com/products/air.html
+.. _Snappy: https://github.com/Masonry/Snappy
+.. _Masonry: https://github.com/Masonry/Masonry
+.. _Mantle: https://github.com/Mantle/Mantle
+.. _TestFlight: https://www.testflightapp.com/
+.. _TTTAttributedLabel: https://github.com/mattt/TTTAttributedLabel
 
 .. _Korea Digital Media High School: http://dimigo.hs.kr
 
