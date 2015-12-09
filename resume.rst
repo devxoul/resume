@@ -62,7 +62,6 @@ Career
       - Masonry_ (Auto Layout)
       - SnapKit_ (Auto Layout)
       - SSBouncyButton_
-      - TestFlight_
       - TTTAttributedLabel_
 
    Backend Server:
@@ -277,7 +276,6 @@ Other Activities
 .. _SnapKit: https://github.com/Masonry/Snappy
 .. _Masonry: https://github.com/Masonry/Masonry
 .. _Mantle: https://github.com/Mantle/Mantle
-.. _TestFlight: https://www.testflightapp.com/
 .. _TTTAttributedLabel: https://github.com/mattt/TTTAttributedLabel
 
 .. _Korea Digital Media High School: http://dimigo.hs.kr
