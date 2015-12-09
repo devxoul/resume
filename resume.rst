@@ -59,7 +59,7 @@ Career
       - AFNetworking_
       - Mantle_
       - Masonry_ (Auto Layout)
-      - Snappy_ (Auto Layout)
+      - SnapKit_ (Auto Layout)
       - SSBouncyButton_
       - TestFlight_
       - TTTAttributedLabel_
@@ -256,7 +256,7 @@ Other Activities
 .. _Cocos2D: http://cocos2d.org
 .. _RED5: http://red5.org
 .. _Adobe AIR: http://www.adobe.com/products/air.html
-.. _Snappy: https://github.com/Masonry/Snappy
+.. _SnapKit: https://github.com/Masonry/Snappy
 .. _Masonry: https://github.com/Masonry/Masonry
 .. _Mantle: https://github.com/Mantle/Mantle
 .. _TestFlight: https://www.testflightapp.com/
