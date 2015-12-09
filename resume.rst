@@ -51,7 +51,7 @@ Career
 ------
 
 2014-- StyleShare_
-   Software Developer.
+   Software Engineer.
 
    iOS application:
 
