@@ -29,7 +29,7 @@ Skills
    - RIA: Flash, `Adobe AIR`_, `Apache Flex`_
    - Databases: PostgreSQL_, MySQL, SQLite, SQLAlchemy_
    - Web Servers: Nginx_
-   - Game Development: Starling_, Cocos2D_
+   - CI: Travis_, CircleCI_
 
 
 Education
@@ -52,7 +52,7 @@ Career
 ------
 
 2014-- StyleShare_
-   Software Developer.
+   Software Engineer.
 
    iOS application:
 
@@ -60,9 +60,8 @@ Career
       - AFNetworking_
       - Mantle_
       - Masonry_ (Auto Layout)
-      - Snappy_ (Auto Layout)
+      - SnapKit_ (Auto Layout)
       - SSBouncyButton_
-      - TestFlight_
       - TTTAttributedLabel_
 
    Backend Server:
@@ -200,14 +199,29 @@ Outsourcing Projects
 Open Source Projects
 --------------------
 
+2015- SwiftyImage_
+   The most sexy way to use images in Swift.
+
+2015- CocoaSeeds_
+   Git Submodule Alternative for Cocoa.
+
+2015- UINavigationItem+Margin_
+   Margin for UINavigationItem.
+
+2015- SwiftyColor_
+   The most sexy way to use colors in Swift.
+
+2014- UITextView+Placeholder_
+   A missing placeholder for UITextView.
+
 2014- SSBouncyButton_
    iOS7-style bouncy button. Used in StyleShare_ for iOS.
 
+2014- SwipeBack_
+   Enable iOS 7 swipe-to-back when custom back button is set.
+
 2014- Korail_
    An unofficial Korail API for Python.
-
-2013- JLModel_
-   JLModel allows you to manage models in very simple way in Objective-C.
 
 2013- Allkdic_ (올ㅋ사전)
    A handy dictionary for OS X. Around 2,000 people are using.
@@ -243,6 +257,8 @@ Other Activities
 .. _CoffeeScript: http://coffeescript.org
 .. _jQuery: http://jquery.com
 .. _Nginx: http://nginx.org
+.. _Travis: https://travis-ci.com/
+.. _CircleCI: https://circleci.com/
 .. _ViewDeck: https://github.com/Inferis/ViewDeck
 .. _AFNetworking: http://afnetworking.com
 .. _JLCoreData: https://github.com/devxoul/JLCoreData
@@ -257,10 +273,9 @@ Other Activities
 .. _Cocos2D: http://cocos2d.org
 .. _RED5: http://red5.org
 .. _Adobe AIR: http://www.adobe.com/products/air.html
-.. _Snappy: https://github.com/Masonry/Snappy
+.. _SnapKit: https://github.com/Masonry/Snappy
 .. _Masonry: https://github.com/Masonry/Masonry
 .. _Mantle: https://github.com/Mantle/Mantle
-.. _TestFlight: https://www.testflightapp.com/
 .. _TTTAttributedLabel: https://github.com/mattt/TTTAttributedLabel
 
 .. _Korea Digital Media High School: http://dimigo.hs.kr
@@ -280,7 +295,13 @@ Other Activities
 .. _Sleep If U Can: http://delightroom.org/sleepifucan
 .. _Fanpple: http://fanpple.com
 
+.. _SwiftyImage: https://github.com/devxoul/SwiftyImage
+.. _CocoaSeeds: https://github.com/devxoul/CocoaSeeds
+.. _UINavigationItem+Margin: https://github.com/devxoul/_UINavigationItem-Margin
+.. _SwiftyColor: https://github.com/devxoul/SwiftyColor
+.. _UITextView+Placeholder: https://github.com/devxoul/UITextView-Placeholder
 .. _SSBouncyButton: https://github.com/StyleShare/SSBouncyButton
+.. _SwipeBack: https://github.com/StyleShare/SwipeBack
 .. _Korail: http://github.com/devxoul/korail
 .. _JLModel: http://github.com/devxoul/JLModel
 .. _Allkdic: http://devxoul.github.io/allkdic
