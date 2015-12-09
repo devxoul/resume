@@ -29,6 +29,7 @@ Skills
    - RIA: Flash, `Adobe AIR`_, `Apache Flex`_
    - Databases: PostgreSQL_, MySQL, SQLite, SQLAlchemy_
    - Web Servers: Nginx_
+   - CI: Travis_, CircleCI_
 
 
 Education
@@ -257,6 +258,8 @@ Other Activities
 .. _CoffeeScript: http://coffeescript.org
 .. _jQuery: http://jquery.com
 .. _Nginx: http://nginx.org
+.. _Travis: https://travis-ci.com/
+.. _CircleCI: https://circleci.com/
 .. _ViewDeck: https://github.com/Inferis/ViewDeck
 .. _AFNetworking: http://afnetworking.com
 .. _JLCoreData: https://github.com/devxoul/JLCoreData
