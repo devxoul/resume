@@ -29,7 +29,6 @@ Skills
    - RIA: Flash, `Adobe AIR`_, `Apache Flex`_
    - Databases: PostgreSQL_, MySQL, SQLite, SQLAlchemy_
    - Web Servers: Nginx_
-   - Game Development: Starling_, Cocos2D_
 
 
 Education
