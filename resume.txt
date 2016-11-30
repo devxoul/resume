@@ -23,7 +23,7 @@ Interests
    - UI/UX programming.
 
 Skills
-   - Languages: Python, Swift, Objective-C, JavaScript, CoffeeScript_, ActionScript, PHP, Java
+   - Languages: Swift, Objective-C, Python, JavaScript, ActionScript, Ruby
    - Web Frameworks: Flask_, Jinja_, LESS_, HTML5
    - Mobile Development: iOS
    - RIA: Flash, `Adobe AIR`_, `Apache Flex`_
@@ -199,17 +199,20 @@ Outsourcing Projects
 Open Source Projects
 --------------------
 
-2015- SwiftyImage_
-   The most sexy way to use images in Swift.
+2016- RxTodo_
+   iOS Todo Application with RxSwift + MVVM
+
+2016- RxKeyboard_
+   Reactive Keyboard in iOS
+
+2016- URLNavigator_
+   Elegant URL Routing for Swift
+
+2015- Then_
+   Super sweet syntactic sugar for Swift initializers.
 
 2015- CocoaSeeds_
    Git Submodule Alternative for Cocoa.
-
-2015- UINavigationItem+Margin_
-   Margin for UINavigationItem.
-
-2015- SwiftyColor_
-   The most sexy way to use colors in Swift.
 
 2014- UITextView+Placeholder_
    A missing placeholder for UITextView.
@@ -226,7 +229,7 @@ Open Source Projects
 2013- Allkdic_ (올ㅋ사전)
    A handy dictionary for OS X. Around 2,000 people are using.
 
-2013- JLToast_
+2013- Toaster_
    Toast for iOS with very simple interface. Written in Swift.
 
 2011- as3id3lib_
@@ -295,17 +298,18 @@ Other Activities
 .. _Sleep If U Can: http://delightroom.org/sleepifucan
 .. _Fanpple: http://fanpple.com
 
-.. _SwiftyImage: https://github.com/devxoul/SwiftyImage
+.. _RxTodo: https://github.com/devxoul/RxTodo
+.. _RxKeyboard: https://github.com/RxSwiftCommunity/RxKeyboard
+.. _URLNavigator: https://github.com/devxoul/URLNavigator
+.. _Then: https://github.com/devxoul/Then
 .. _CocoaSeeds: https://github.com/devxoul/CocoaSeeds
-.. _UINavigationItem+Margin: https://github.com/devxoul/_UINavigationItem-Margin
-.. _SwiftyColor: https://github.com/devxoul/SwiftyColor
 .. _UITextView+Placeholder: https://github.com/devxoul/UITextView-Placeholder
 .. _SSBouncyButton: https://github.com/StyleShare/SSBouncyButton
 .. _SwipeBack: https://github.com/StyleShare/SwipeBack
 .. _Korail: http://github.com/devxoul/korail
 .. _JLModel: http://github.com/devxoul/JLModel
 .. _Allkdic: http://devxoul.github.io/allkdic
-.. _JLToast: http://github.com/devxoul/JLToast
+.. _Toaster: http://github.com/devxoul/Toaster
 .. _as3id3lib: https://github.com/devxoul/as3id3lib
 .. _4Shared Downloader: http://xoul.tistory.com/category/Works/4Shared%20Downloader
 
