@@ -38,16 +38,6 @@ Education
 2010--2011 `Korea Digital Media High School`_ (Dropped out)
 
 
-Mentoring
----------
-
-2013--
-   Mentor of STAC_.
-
-2013--
-   Mentor of Ittda_.
-
-
 Career
 ------
 
