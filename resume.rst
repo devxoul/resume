@@ -4,11 +4,14 @@ Jeon Suyeol - Résumé
 Personal Details
 ----------------
 
+GitHub
+   https://github.com/devxoul
+
 Email
    devxoul@gmail.com
 
 Website
-   http://xoul.kr/
+   https://xoul.kr/
 
 Phone
    +82 10-2060-9858
@@ -23,9 +26,9 @@ Interests
    - UI/UX programming.
 
 Skills
-   - Languages: Swift, Objective-C, Python, JavaScript, ActionScript, Ruby
-   - Web Frameworks: Flask_, Jinja_, LESS_, HTML5
+   - Languages: Swift, Objective-C, Python, Ruby, TypeScript, JavaScript, ActionScript
    - Mobile Development: iOS
+   - Web Frameworks: Flask_, Jinja_, Django_, React_
    - RIA: Flash, `Adobe AIR`_, `Apache Flex`_
    - Databases: PostgreSQL_, MySQL, SQLite, SQLAlchemy_
    - Web Servers: Nginx_
@@ -38,16 +41,6 @@ Education
 2010--2011 `Korea Digital Media High School`_ (Dropped out)
 
 
-Mentoring
----------
-
-2013--
-   Mentor of STAC_.
-
-2013--
-   Mentor of Ittda_.
-
-
 Career
 ------
 
@@ -57,12 +50,12 @@ Career
    iOS application:
 
       - Swift & Objective-C
-      - AFNetworking_
-      - Mantle_
-      - Masonry_ (Auto Layout)
-      - SnapKit_ (Auto Layout)
-      - SSBouncyButton_
-      - TTTAttributedLabel_
+      - ReactorKit_
+      - RxSwift_
+      - Alamofire_ & AFNetworking_
+      - ObjectMapper_ & Mantle_
+      - SnapKit_ & Masonry_
+      - URLNavigator_
 
    Backend Server:
 
@@ -196,51 +189,11 @@ Outsourcing Projects
       - `Google Analytics`_
 
 
-Open Source Projects
---------------------
-
-2016- RxTodo_
-   iOS Todo Application with RxSwift + MVVM
-
-2016- RxKeyboard_
-   Reactive Keyboard in iOS
-
-2016- URLNavigator_
-   Elegant URL Routing for Swift
-
-2015- Then_
-   Super sweet syntactic sugar for Swift initializers.
-
-2015- CocoaSeeds_
-   Git Submodule Alternative for Cocoa.
-
-2014- UITextView+Placeholder_
-   A missing placeholder for UITextView.
-
-2014- SSBouncyButton_
-   iOS7-style bouncy button. Used in StyleShare_ for iOS.
-
-2014- SwipeBack_
-   Enable iOS 7 swipe-to-back when custom back button is set.
-
-2014- Korail_
-   An unofficial Korail API for Python.
-
-2013- Allkdic_ (올ㅋ사전)
-   A handy dictionary for OS X. Around 2,000 people are using.
-
-2013- Toaster_
-   Toast for iOS with very simple interface. Written in Swift.
-
-2011- as3id3lib_
-   ActionScript 3.0 id3 library.
-
-2011- `4Shared Downloader`_
-   Download files from 4shared.com immediately.
-
-
 Other Activities
 ----------------
+
+2016-
+   Administrator of `Swift Korea`_, a community for Swift developers in Korea.
 
 2013-
    Founder of `Sexy iOS Developers Korea`_, a community for iOS developers in Korea. Supported by Microsoft.
@@ -257,12 +210,17 @@ Other Activities
 .. _Fabric: http://fabfile.org
 .. _Jinja: http://jinja.pocoo.org
 .. _LESS: http://lesscss.org
+.. _Django: https://djangoproject.com
+.. _React: https://reactjs.org/
 .. _CoffeeScript: http://coffeescript.org
 .. _jQuery: http://jquery.com
 .. _Nginx: http://nginx.org
 .. _Travis: https://travis-ci.com/
 .. _CircleCI: https://circleci.com/
 .. _ViewDeck: https://github.com/Inferis/ViewDeck
+.. _ReactorKit: https://reactorkit.io
+.. _RxSwift: https://github.com/ReactiveX/RxSwift
+.. _Alamofire: https://github.com/Alamofire/Alamofire
 .. _AFNetworking: http://afnetworking.com
 .. _JLCoreData: https://github.com/devxoul/JLCoreData
 .. _Cocoapods: http://cocoapods.org
@@ -278,6 +236,8 @@ Other Activities
 .. _Adobe AIR: http://www.adobe.com/products/air.html
 .. _SnapKit: https://github.com/Masonry/Snappy
 .. _Masonry: https://github.com/Masonry/Masonry
+.. _URLNavigator: https://github.com/devxoul/URLNavigator
+.. _ObjectMapper: https://github.com/tristanhimmelman/ObjectMapper
 .. _Mantle: https://github.com/Mantle/Mantle
 .. _TTTAttributedLabel: https://github.com/mattt/TTTAttributedLabel
 
@@ -298,20 +258,8 @@ Other Activities
 .. _Sleep If U Can: http://delightroom.org/sleepifucan
 .. _Fanpple: http://fanpple.com
 
-.. _RxTodo: https://github.com/devxoul/RxTodo
-.. _RxKeyboard: https://github.com/RxSwiftCommunity/RxKeyboard
-.. _URLNavigator: https://github.com/devxoul/URLNavigator
-.. _Then: https://github.com/devxoul/Then
-.. _CocoaSeeds: https://github.com/devxoul/CocoaSeeds
-.. _UITextView+Placeholder: https://github.com/devxoul/UITextView-Placeholder
-.. _SSBouncyButton: https://github.com/StyleShare/SSBouncyButton
-.. _SwipeBack: https://github.com/StyleShare/SwipeBack
-.. _Korail: http://github.com/devxoul/korail
 .. _JLModel: http://github.com/devxoul/JLModel
-.. _Allkdic: http://devxoul.github.io/allkdic
-.. _Toaster: http://github.com/devxoul/Toaster
-.. _as3id3lib: https://github.com/devxoul/as3id3lib
-.. _4Shared Downloader: http://xoul.tistory.com/category/Works/4Shared%20Downloader
 
+.. _Swift Korea: https://www.facebook.com/groups/swiftkor
 .. _Sexy iOS Developers Korea: https://www.facebook.com/groups/sexyiosdeveloperskorea
 .. _Flash Platform Developers: https://www.facebook.com/groups/flashplatformdevelopers
