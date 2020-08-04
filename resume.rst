@@ -13,9 +13,6 @@ Email
 Website
    https://xoul.kr/
 
-Phone
-   +82 10-2060-9858
-
 
 Summary
 -------
